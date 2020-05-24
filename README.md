@@ -24,4 +24,4 @@ Run `bigscale-project2.ipynb` in Jupyter or Kaggle to get started.
 Run it on kaggle till "word2vec" model and then bert model has to be run on jupyter (it takes alot of time to train the model ~6h depending on pc). 
 
 ## Video link to explanations of our work
-[https://youtu.be/AQhUlsv9B8A](https://)
+[https://youtu.be/b3N_gA2trUA](https://)
