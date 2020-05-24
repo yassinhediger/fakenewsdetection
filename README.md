@@ -14,12 +14,14 @@ Professor Michalis Vlachos
 
 Goal: 
 Predict which Tweets are about real disasters and which ones are not
+
 link : https://www.kaggle.com/c/nlp-getting-started/overview
 
 ## Instructions
 
 Run `bigscale-project2.ipynb` in Jupyter or Kaggle to get started.
-If you run it on kaggle, run through till "word2vec" model because bert will not run on kaggle, it has to be run on jupyter. 
+
+Run it on kaggle till "word2vec" model and then bert model has to be run on jupyter (it takes alot of time to train the model ~6h depending on pc). 
 
 ## Video link to explanations of our work
 [https://youtu.be/AQhUlsv9B8A](https://)
